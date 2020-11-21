@@ -1,5 +1,7 @@
 # Scala Kafka Producer
 
+A minimal Scala Kafka producer.
+
 See messages on topic:
 
 ```shell
